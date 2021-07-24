@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Nathan! 👋
 
 I'm a recent data science graduate from California.
 
