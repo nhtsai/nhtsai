@@ -1,9 +1,7 @@
 ### Hi there, I'm Nathan! 👋
 
-I'm a recent data science graduate from California.
-
-- 🔭 I’m currently working on computer vision methods for self-driving related applications.
-- 🌱 I’m currently learning SQL and statistics.
+- 🌱 I’m currently learning about database systems, probability, Rust, and Haskell.
+- 🔭 I'm currently looking to contribute to open source software and documentation.
 
 <!--
 **nhtsai/nhtsai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
