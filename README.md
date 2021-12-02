@@ -1,6 +1,6 @@
 ### Hi there, I'm Nathan! 👋
 
-- 🌱 I’m currently learning about database systems, probability, Rust, and Haskell.
+- 🌱 I’m currently learning about database systems, probability, computer vision, Rust, and C++.
 - 🔭 I'm currently looking to contribute to open source software and documentation.
 
 <!--
